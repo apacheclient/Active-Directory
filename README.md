@@ -1,6 +1,6 @@
 # Active-Directory
 
-This project was produced on a virtual active directory, using Hyper-V manager, creating OU's, groups, and group policies on a local machine; along with scenarios. 
+This project was produced on a virtual active directory, using Hyper-V manager on a local machine. Includes OUs, groups, permissions, domains, domain controllers, forest, and created scenarios with fake users to produce a realistic and simulated AD environment. 
 
 # Active Directory Tier-1 Helpdesk Lab
 
