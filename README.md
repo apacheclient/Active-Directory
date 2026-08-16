@@ -1,5 +1,7 @@
 # Active-Directory
 
+This project was produced on a virtual active directory, using Hyper-V manager, creating OU's, groups, and group policies on a local machine; along with scenarios. 
+
 # Active Directory Tier-1 Helpdesk Lab
 
 This project is a hands-on Active Directory lab built to demonstrate practical skills used in Help Desk and IT Specialist roles. It covers domain controller setup, organizational structure, security groups, and real-world Tier-1 account management tasks using PowerShell.
